@@ -6,20 +6,16 @@
 
 
 :computer: I'm Front-End Developer!
-
 :house_with_garden: I’m from Brazil.
-
 :books: I’m currently learning HTML and CSS.
-
 :outbox_tray: 2021 Goals: create a new project and find a new job.
-
 :video_game: I'm Love games...
-
 :pizza: and Pizza :relieved:
 
 ## About me
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/R1QU3)](https://github.com/R1QU3)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-henrique-87819420b/)](https://www.linkedin.com/in/jos%C3%A9-henrique-87819420b/)
+
 
 ## Languages and Tools:
 
