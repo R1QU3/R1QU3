@@ -25,10 +25,13 @@
 
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>.
 
-- Enjoy it! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20">.
+
+
+- Enjoy it! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20">
 
 
 [![R1QU3 GitHub stats](https://github-readme-stats.vercel.app/api?username=R1QU3)](https://github.com/R1QU3/github-readme-stats)
 
 
-- Thanks for visiting <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="20">.
+
+- Thanks for visiting <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="20">
