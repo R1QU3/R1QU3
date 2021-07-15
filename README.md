@@ -1,6 +1,6 @@
-# Welcome!
+# Welcome! </br>
 
-## I'm Henrique! <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="20">
+## I'm Henrique! <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="20"> </br>
 
 :computer: **I'm**  🇫 🇷 🇴 🇳 🇹 -🇪 🇳 🇩  🇸 🇹 🇺 🇩 🇪 🇳 🇹 ! </br> :house_with_garden: I’m from Brazil. </br> :books: I’m currently learning HTML and CSS. </br> :outbox_tray: 2021 Goals: create a new project and find a new job. </br> :video_game: I'm Love games... </br> :pizza: and Pizza :relieved:
 
