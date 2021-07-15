@@ -2,9 +2,7 @@
 
 ## I'm Henrique! <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="20">
 
-:computer: **I'm**  🇫 🇷 🇴 🇳 🇹 -🇪 🇳 🇩  🇸 🇹 🇺 🇩 🇪 🇳 🇹 !
-
-:house_with_garden: I’m from Brazil.
+:computer: **I'm**  🇫 🇷 🇴 🇳 🇹 -🇪 🇳 🇩  🇸 🇹 🇺 🇩 🇪 🇳 🇹 ! </br> :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning HTML and CSS.
 
