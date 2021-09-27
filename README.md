@@ -12,6 +12,6 @@
 
 [![R1QU3 GitHub stats](https://github-readme-stats.vercel.app/api?username=R1QU3)](https://github.com/R1QU3/github-readme-stats)
 
-- Enjoy it! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="100">
+- Enjoy it! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20">
 
 - Thanks for visiting <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="20">
