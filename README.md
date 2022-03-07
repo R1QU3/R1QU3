@@ -6,14 +6,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  :computer: I'm Front-End Developer! </br> 
-  :house_with_garden: I’m from Brazil. </br> 
-  :books: I’m currently learning JavaScript and VueJS. </br> 
-  :outbox_tray: 2021 Goals: create a new project </br> 
-  :video_game: I'm Love games... </br> 
-  :pizza: and Pizza :relieved:
-</p>
+  #### :computer: **I'm Front-End Developer!** </br> 
+  #### :house_with_garden: I’m from Brazil. </br> 
+  #### :books: I’m currently learning JavaScript and VueJS. </br> 
+  #### :outbox_tray: 2021 Goals: create a new project </br> 
+  #### :video_game: I'm Love games... </br> 
+  #### :pizza: and Pizza :relieved:
 
 <br/>
 
