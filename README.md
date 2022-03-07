@@ -1,32 +1,56 @@
-## Hello ^-^  I'm Henrique! <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="20">
+## Hello (¬‿¬)  I'm Henrique! <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="20">
 
+<br/>
 
-## About me
+**About me**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  :computer: **I'm**  ғ ʀ ᴏ ɴ ᴛ - ᴇ ɴ ᴅ s ᴛ ᴜ ᴅ ᴇ ɴ ᴛ! </br> :house_with_garden: I’m from Brazil. </br> :books: I’m currently learning HTML and CSS. </br> :outbox_tray: 2021 Goals: create a new project and find a new job. </br> :video_game: I'm Love games... </br> :pizza: and Pizza :relieved:
+  :computer: I'm Front-End Developer! </br> 
+  :house_with_garden: I’m from Brazil. </br> 
+  :books: I’m currently learning JavaScript and VueJS. </br> 
+  :outbox_tray: 2021 Goals: create a new project </br> 
+  :video_game: I'm Love games... </br> 
+  :pizza: and Pizza :relieved:
 </p>
 
-<p align="left">
-  💌 Contact me ^-^ ⤵️
-</p>
+<br/>
 
-<p align="left">
-  
-  <a href="josehenriquehyttspf@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+[![R1QU3](https://github-readme-stats.vercel.app/api?username=R1QU3&theme=radical)](https://github.com/R1QU3/)
 
-  <a href="https://www.linkedin.com/in/josé-henrique-silva-nascimento-87819420b" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-  
-</p>
+[![R1QU3](https://github-readme-stats.vercel.app/api/top-langs/?username=R1QU3&hide=html&layout=compact&theme=radical)](https://github.com/R1QU3/)
 
-## Languages and Tools:
-<code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code> <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code> <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>.
+<br/>
 
-[![R1QU3 GitHub stats](https://github-readme-stats.vercel.app/api?username=R1QU3)](https://github.com/R1QU3/github-readme-stats)
+**Languages and tools**
+
+ ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+ ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+ ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+ 
+ **DevOps**
+ 
+ ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+ ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+ ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Work Experience
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C560BAQH48XdP4i2jcA/company-logo_200_200/0/1594912832137?e=1654732800&v=beta&t=1WMuh9hXJ-0WZS2KHEJp0l0kUaTj4I0LCzOlFyKq0IQ"/>](https://melodesigner.de/)
+
+**Intern Front-End** \
+[**Melo Designer**](https://melodesigner.de/) • Full-time \
+Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`
+
+<br/>
+
+Please find me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-henrique-silva-nascimento-87819420b/) for a more detailed description of my full work experience, education and certification.
+
 
 - Enjoy it! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20">
 
