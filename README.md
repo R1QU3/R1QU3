@@ -9,7 +9,7 @@
   #### :computer: **I'm Front-End Developer!** </br> 
   #### :house_with_garden: I’m from Brazil. </br> 
   #### :books: I’m currently learning JavaScript and VueJS. </br> 
-  #### :outbox_tray: 2021 Goals: create a new project </br> 
+  #### :outbox_tray: 2022 Goals: Learning JavaScript </br> 
   #### :video_game: I'm Love games... </br> 
   #### :pizza: and Pizza :relieved:
 
