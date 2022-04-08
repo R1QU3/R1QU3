@@ -47,7 +47,7 @@ Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`
 
 <br/>
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-henrique-silva-nascimento-87819420b/) for a more detailed description of my full work experience, education and certification.
+Please find me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-henrique-silva-nascimento-87819420b/) or [Portifolio](https://r1qu3.github.io/) for a more detailed description of my full work experience, education and certification.
 
 
 - Enjoy it! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20">
