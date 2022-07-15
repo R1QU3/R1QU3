@@ -39,10 +39,26 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="MeloDesigner" src="https://play-lh.googleusercontent.com/8OkVP1GG1EsAxO3DqY21y60DxOCkrAF6vTmW3ns3vXFrYQcCYyZchSOa8_iVTLixzgvu=s94-rw"/>](https://melodesigner.de/)
+<img align="left" height="94px" width="94px" alt="SA Tecnologies Logo" src="https://www.logolynx.com/images/logolynx/74/74dac02cf634266acf73e59f6e0d4c0e.png"/>
+
+**Technical Support Intern** \
+**SA Technology** • Full-time • 2021 \
+Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual Assistance`
+
+<br/>
+
+<img align="left" height="94px" width="94px" alt="Health's Secretary Logo" src="https://saudecaruaru.pe.gov.br/site/wp-content/uploads/2021/01/cropped-logo_prefeitura.png"/>
+
+**Technical Support Intern** \
+**Health's Secretary** • Full-time • 2021 - 2022 \
+Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual Assistance`
+
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="MeloDesigner Logo" src="https://play-lh.googleusercontent.com/8OkVP1GG1EsAxO3DqY21y60DxOCkrAF6vTmW3ns3vXFrYQcCYyZchSOa8_iVTLixzgvu=s94-rw"/>](https://melodesigner.de/)
 
 **Intern Front-End** \
-[**Melo Designer**](https://melodesigner.de/) • Full-time \
+[**Melo Designer**](https://melodesigner.de/) • Full-time • 2021 - ထ \
 Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`
 
 <br/>
