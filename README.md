@@ -39,7 +39,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media-exp1.licdn.com/dms/image/C560BAQH48XdP4i2jcA/company-logo_200_200/0/1594912832137?e=1654732800&v=beta&t=1WMuh9hXJ-0WZS2KHEJp0l0kUaTj4I0LCzOlFyKq0IQ"/>](https://melodesigner.de/)
+[<img align="left" height="94px" width="94px" alt="MeloDesigner" src="https://play-lh.googleusercontent.com/8OkVP1GG1EsAxO3DqY21y60DxOCkrAF6vTmW3ns3vXFrYQcCYyZchSOa8_iVTLixzgvu=s94-rw"/>](https://melodesigner.de/)
 
 **Intern Front-End** \
 [**Melo Designer**](https://melodesigner.de/) • Full-time \
