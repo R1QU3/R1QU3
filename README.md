@@ -6,12 +6,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-  #### :computer: **I'm Front-End Developer!** </br> 
-  #### :house_with_garden: I’m from Brazil. </br> 
-  #### :books: I’m currently learning JavaScript and VueJS. </br> 
-  #### :outbox_tray: 2022 Goals: Learning JavaScript </br> 
-  #### :video_game: I'm Love games... </br> 
-  #### :pizza: and Pizza :relieved:
+  :computer: I'm **Front-End** Developer! </br> 
+  :house_with_garden: I’m from **Brazil**. </br> 
+  :books: I’m currently learning **JavaScript** and **VueJS**. </br> 
+  :outbox_tray: 2022 Goals: Learning **Vue.JS** </br> 
+  :video_game: I'm Love **games**... </br> 
+  :pizza: and **Pizza** :relieved:
 
 <br/>
 
@@ -42,7 +42,7 @@ In the overview below you will find my most recent work experience:
 <img align="left" height="94px" width="94px" alt="SA Tecnologies Logo" src="https://www.logolynx.com/images/logolynx/74/74dac02cf634266acf73e59f6e0d4c0e.png"/>
 
 **Technical Support Intern** \
-**SA Technology** • Full-time • 2021 \
+**SA Technology** • `Part-time` • 2021 \
 Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual Assistance`
 
 <br/>
@@ -50,7 +50,7 @@ Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual 
 <img align="left" height="94px" width="94px" alt="Health's Secretary Logo" src="https://saudecaruaru.pe.gov.br/site/wp-content/uploads/2021/01/cropped-logo_prefeitura.png"/>
 
 **Technical Support Intern** \
-**Health's Secretary** • Full-time • 2021 - 2022 \
+**Health's Secretary** • `Part-time` • 2022 - 2023 \
 Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual Assistance`
 
 <br/>
@@ -58,7 +58,7 @@ Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual 
 [<img align="left" height="94px" width="94px" alt="MeloDesigner Logo" src="https://play-lh.googleusercontent.com/8OkVP1GG1EsAxO3DqY21y60DxOCkrAF6vTmW3ns3vXFrYQcCYyZchSOa8_iVTLixzgvu=s94-rw"/>](https://melodesigner.de/)
 
 **Intern Front-End** \
-[**Melo Designer**](https://melodesigner.de/) • Full-time • 2021 - ထ \
+[**Melo Designer**](https://melodesigner.de/) • `Part-time` • 2021 - ထ \
 Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`
 
 <br/>
