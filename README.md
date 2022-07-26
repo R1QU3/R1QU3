@@ -57,7 +57,7 @@ Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual 
 [<img align="left" height="94px" width="94px" alt="MeloDesigner Logo" src="https://play-lh.googleusercontent.com/8OkVP1GG1EsAxO3DqY21y60DxOCkrAF6vTmW3ns3vXFrYQcCYyZchSOa8_iVTLixzgvu=s94-rw"/>](https://melodesigner.de/)
 
 **Intern Front-End** \
-[**Melo Designer**](https://melodesigner.de/) • `Part-time` • 2021 - ထ \
+[**Melo Designer**](https://melodesigner.de/) • `Part-time` • 2021 - 2023 \
 Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`
 
 <br/>
