@@ -1,3 +1,5 @@
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=r1qu3&left_color=green&right_color=red)
+
 ### Hello (¬‿¬)  I'm Henrique! <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="20">
 
 <br/>
@@ -64,7 +66,6 @@ Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-henrique-silva-nascimento-87819420b/) or [Portifolio](https://r1qu3.github.io/) for a more detailed description of my full work experience, education and certification.
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=r1qu3&left_color=green&right_color=red)
 
 - Enjoy it! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20">
 
