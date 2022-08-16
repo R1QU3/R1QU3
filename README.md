@@ -64,6 +64,7 @@ Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-henrique-silva-nascimento-87819420b/) or [Portifolio](https://r1qu3.github.io/) for a more detailed description of my full work experience, education and certification.
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=r1qu3&left_color=green&right_color=red)
 
 - Enjoy it! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20">
 
