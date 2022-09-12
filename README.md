@@ -50,9 +50,9 @@ Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual 
 
 <img align="left" height="94px" width="94px" alt="Health's Secretary Logo" src="https://saudecaruaru.pe.gov.br/site/wp-content/uploads/2021/01/cropped-logo_prefeitura.png"/>
 
-**Technical Support Intern** \
+**Intern Web Developer** \
 **Health's Secretary** • `Part-time` • 2022 - 2023 \
-Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual Assistance`
+Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`, `PHP`, `Laravel`, `InertiaJS`, `Jetstream`, `TailwindCSS`, `PostgreSQL`, `SQL`
 
 <br/>
 
