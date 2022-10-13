@@ -17,12 +17,6 @@
 
 <br/>
 
-[![R1QU3](https://github-readme-stats.vercel.app/api?username=R1QU3&theme=radical)](https://github.com/R1QU3/)
-
-[![R1QU3](https://github-readme-stats.vercel.app/api/top-langs/?username=R1QU3&hide=html&layout=compact&theme=radical)](https://github.com/R1QU3/)
-
-<br/>
-
 **Languages and tools**
 
  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
