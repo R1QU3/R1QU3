@@ -12,24 +12,29 @@
   :house_with_garden: I’m from **Brazil**. </br> 
   :books: I’m currently learning **JavaScript** and **VueJS**. </br> 
   :outbox_tray: 2022 Goals: Learning **Vue.JS** </br> 
-  :video_game: I'm Love **games**... </br> 
-  :pizza: and **Pizza** :relieved:
 
 <br/>
 
 **Languages and tools**
 
- ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
- ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ 
+ ![PHP](https://img.shields.io/badge/php-151515?style=for-the-badge&logo=php&logoColor=white)
+ ![LARAVEL](https://img.shields.io/badge/Laravel-F25757?style=for-the-badge&logo=laravel&logoColor=white)
+ ![HTML](https://img.shields.io/badge/HTML-f54e00?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-0077b6?&style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
- ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+ ![TAIL](https://img.shields.io/badge/tailwindcss-61E8E1?style=for-the-badge&logo=tailwindcss&logoColor=white)
+ ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  
- **DevOps**
+ 
+ **Tools
  
  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+ ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+ ![FEDORA](https://img.shields.io/badge/Fedora-0077b6?style=for-the-badge&logo=fedora&logoColor=white)
+ ![RED](https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-ff0000?style=for-the-badge&logo=redhat&logoColor=white)
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
@@ -42,7 +47,7 @@ Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual 
 
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Health's Secretary Logo" src="https://saudecaruaru.pe.gov.br/site/wp-content/uploads/2021/01/cropped-logo_prefeitura.png"/>
+<img align="left" height="94px" width="110px" alt="Health's Secretary Logo" src="https://caruaru.pe.gov.br/wp-content/uploads/2022/12/logo-branco-caruaru-2022.png"/>
 
 **Intern Web Developer** \
 **Health's Secretary** • `Part-time` • 2022 - 2023 \
