@@ -1,4 +1,3 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=r1qu3&left_color=green&right_color=red)
 
 ### Hello (¬‿¬)  I'm Henrique! <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="20">
 
@@ -8,33 +7,29 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-  :computer: I'm **Front-End** Developer! </br> 
+  :computer: I'm **Full stack** developer! </br> 
   :house_with_garden: I’m from **Brazil**. </br> 
-  :books: I’m currently learning **JavaScript** and **VueJS**. </br> 
-  :outbox_tray: 2022 Goals: Learning **Vue.JS** </br> 
+  :books: I’m currently learning **Typescript**. </br> 
+  :outbox_tray: 2022 Goals: Learning **AdonisJS** </br> 
 
 <br/>
 
 **Languages and tools**
-
  
- ![PHP](https://img.shields.io/badge/php-151515?style=for-the-badge&logo=php&logoColor=white)
- ![LARAVEL](https://img.shields.io/badge/Laravel-F25757?style=for-the-badge&logo=laravel&logoColor=white)
  ![HTML](https://img.shields.io/badge/HTML-f54e00?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/CSS-0077b6?&style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ ![Typescript](https://img.shields.io/badge/TypeScript-0096DD?style=for-the-badge&logo=typescript&logoColor=white)
+ ![AdonisJS](https://img.shields.io/badge/Adonisjs-563D7C?style=for-the-badge&logo=adonisjs&logoColor=white)
  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+ ![NuxtJS](https://img.shields.io/badge/Nuxt.js-4CAF50?style=for-the-badge&logo=nuxt.js&logoColor=white)
  ![TAIL](https://img.shields.io/badge/tailwindcss-61E8E1?style=for-the-badge&logo=tailwindcss&logoColor=white)
  ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
- 
- 
- **Tools**
- 
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0096DD?style=for-the-badge&logo=postgresql&logoColor=white)
  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
- ![FEDORA](https://img.shields.io/badge/Fedora-0077b6?style=for-the-badge&logo=fedora&logoColor=white)
- ![RED](https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-ff0000?style=for-the-badge&logo=redhat&logoColor=white)
+ ![Ubuntu](https://img.shields.io/badge/Ubuntu-0077b6?style=for-the-badge&logo=Ubuntu&logoColor=orange)
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
@@ -50,7 +45,7 @@ Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual 
 <img align="left" height="94px" width="110px" alt="Health's Secretary Logo" src="https://caruaru.pe.gov.br/wp-content/themes/Newspaper/alfa_components/images/logo-site-caruaru-2022-01.svg"/>
 
 **Intern Web Developer** \
-**Health's Secretary** • `Part-time` • 2022 - 2023 \
+[**Health's Secretary**](https://caruaru.pe.gov.br/) • `Part-time` • 2022 - ∞ \
 Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`, `PHP`, `Laravel`, `InertiaJS`, `Jetstream`, `TailwindCSS`, `PostgreSQL`, `SQL`
 
 <br/>
