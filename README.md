@@ -61,7 +61,7 @@ Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual 
 <img align="left" height="94px" width="110px" alt="Health's Secretary Logo" src="https://caruaru.pe.gov.br/wp-content/themes/Newspaper/alfa_components/images/logo-site-caruaru-2022-01.svg"/>
 
 **Intern Web Developer** \
-[**Health's Secretary**](https://caruaru.pe.gov.br/) • `Part-time` • 2022 - ∞ \
+[**Health's Secretary**](https://caruaru.pe.gov.br/) • `Part-time` • 2022 - 2023 \
 Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`, `PHP`, `Laravel`, `InertiaJS`, `Jetstream`, `TailwindCSS`, `PostgreSQL`, `SQL`
 
 <br/>
