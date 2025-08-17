@@ -11,8 +11,6 @@
 
   :computer: I'm **Full stack** developer! </br> 
   :house_with_garden: I’m from **Brazil**. </br> 
-  :books: I’m currently learning **Typescript**. </br> 
-  :outbox_tray: 2022 Goals: Learning **AdonisJS** </br> 
 
 <br/>
 
