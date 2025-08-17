@@ -42,39 +42,3 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=R1QU3&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1QU3&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-<br>
-
-### Work Experience
-In the overview below you will find my most recent work experience:
-
-<img align="left" height="94px" width="94px" alt="SA Tecnologies Logo" src="https://www.logolynx.com/images/logolynx/74/74dac02cf634266acf73e59f6e0d4c0e.png"/>
-
-**Technical Support Intern** \
-**SA Technology** • `Part-time` • 2021 \
-Languages & Technologies: `Hardware Support`, `Software Support`, `Intellectual Assistance`
-
-<br/>
-
-<img align="left" height="94px" width="110px" alt="Health's Secretary Logo" src="https://caruaru.pe.gov.br/wp-content/themes/Newspaper/alfa_components/images/logo-site-caruaru-2022-01.svg"/>
-
-**Intern Web Developer** \
-[**Health's Secretary**](https://caruaru.pe.gov.br/) • `Part-time` • 2022 - 2023 \
-Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`, `PHP`, `Laravel`, `InertiaJS`, `Jetstream`, `TailwindCSS`, `PostgreSQL`, `SQL`
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="MeloDesigner Logo" src="https://play-lh.googleusercontent.com/8OkVP1GG1EsAxO3DqY21y60DxOCkrAF6vTmW3ns3vXFrYQcCYyZchSOa8_iVTLixzgvu=s94-rw"/>](https://melodesigner.de/)
-
-**Intern Front-End** \
-[**Melo Designer**](https://melodesigner.de/) • `Part-time` • 2021 - 2023 \
-Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `VueJS`
-
-<br/>
-
-Please find me on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-henrique-silva-nascimento-87819420b/) or [Portifolio](https://r1qu3.github.io/) for a more detailed description of my full work experience, education and certification.
-
-
-- Enjoy it! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20">
-
-- Thanks for visiting <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="20">
