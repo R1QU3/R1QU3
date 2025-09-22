@@ -67,10 +67,10 @@
 <div align="center">  
 
   <!-- Stats gerais -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=R1QU3&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Henrique's github stats" /> 
+  <!--<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=R1QU3&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Henrique's github stats" /> -->
   
   <!-- Linguagens mais usadas -->
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1QU3&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <!--<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1QU3&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />-->
 
   <!-- Streak -->
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=R1QU3&hide_border=true&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf&sideNums=c9d1d9&currStreakNum=00bfbf&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
